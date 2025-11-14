@@ -23,6 +23,6 @@ class LuasLingkaran {
 }
 
 $lingkaran = new LuasLingkaran();
-$lingkaran->tampil('hijau'); //panggil method
+$lingkaran->tampil('hijau');
 
 LuasLingkaran::testing();

@@ -21,8 +21,3 @@ class LuasLingkaran {
         echo "selesaaiii";
     }
 }
-
-$lingkaran = new LuasLingkaran();
-$lingkaran->tampil('hijau'); //panggil method
-
-LuasLingkaran::testing();
